@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "react course",
+      "price": "10000"
+    },
+    {
+      "id": 2,
+      "name": "javascript course",
+      "price": "5000"
+    },
+    {
+      "id": 3,
+      "name": " pwa course",
+      "price": "50000"
+    },
+    {
+      "id": 4,
+      "name": "html course",
+      "price": "10000"
+    },
+    {
+      "id": 5,
+      "name": "css course",
+      "price": "10000"
+    }
+  ]
+}
